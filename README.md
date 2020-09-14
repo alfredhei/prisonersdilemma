@@ -1,4 +1,4 @@
-# Prisoners Dilemma strategies in R
+# Prisoner's Dilemma strategies in R
 A R script to simulate optimal strategy for prisoners dilemma under a given set of rules.
 
 The rules are as follows:
